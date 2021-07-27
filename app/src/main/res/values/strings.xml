@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CookingRecipe</string>
+    <string name="Spaghetti"><a href="https://www.tesco.ie/groceries/Product/Details/?id=254878401">1.) Spaghetti</a></string>
+    <string name="Garlic"><a href="https://www.tesco.ie/groceries/Product/Details/?id=285392755">2.) Garlic</a></string>
+    <string name="Parsley"><a href="https://www.tesco.ie/groceries/Product/Details/?id=263161636">3.) Fresh Parsley</a></string>
+    <string name="Oliveoil"><a href="https://www.tesco.ie/groceries/Product/Details/?id=254918418">4.) Olive Oil</a></string>
+</resources>
